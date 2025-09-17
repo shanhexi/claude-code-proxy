@@ -179,19 +179,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Please backup important data before use
 - Data recorded by the tool may contain sensitive information, please handle with care
 
-## Changelog
-
-### v0.0.3
-- Added session management functionality
-- Improved web interface design
-- Optimized log parser performance
-
-### v0.0.2
-- Fixed tool call recording issues
-- Added Markdown rendering support
-
-### v0.0.1
-- Initial release
-- Basic API interception functionality
-
 ---
