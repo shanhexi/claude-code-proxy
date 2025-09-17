@@ -2,7 +2,7 @@
   "name": "claude-code-proxy",
   "version": "0.0.10",
   "author": "Hexi Shan",
-  "description": "Start a local Claude Peek proxy and open it in the browser.",
+  "description": "A development tool for intercepting and visualizing Claude Code API requests with real-time prompt and tool call analysis.",
   "keywords": [
     "claude",
     "code",
