@@ -1,6 +1,6 @@
 {
   "name": "claude-code-proxy",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": "Hexi Shan",
   "description": "Start a local Claude Peek proxy and open it in the browser.",
   "keywords": [
