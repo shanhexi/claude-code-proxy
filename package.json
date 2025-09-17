@@ -17,6 +17,7 @@
   "preferGlobal": true,
   "files": [
     "bin/",
+    "messages/",
     "public/",
     "script/",
     "package.json"
