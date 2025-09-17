@@ -1,0 +1,34 @@
+{
+  "name": "claude-code-proxy",
+  "version": "0.0.7",
+  "author": "Hexi Shan",
+  "description": "Start a local Claude Peek proxy and open it in the browser.",
+  "keywords": [
+    "claude",
+    "code",
+    "proxy",
+    "cli",
+    "devtools"
+  ],
+  "license": "MIT",
+  "bin": {
+    "claude-code-proxy": "./bin/main.js"
+  },
+  "preferGlobal": true,
+  "files": [
+    "bin/",
+    "public/",
+    "script/",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.18",
+    "express": "^4.18.2",
+    "js-beautify": "^1.15.4",
+    "open": "^9.0.0"
+  }
+}
